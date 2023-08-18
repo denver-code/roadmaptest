@@ -1,3 +1,3 @@
 # Hello world  
 ## Description  
-This is a testing data fro another project.
+This is a testing data for another project.

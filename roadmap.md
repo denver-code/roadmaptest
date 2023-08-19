@@ -1,6 +1,6 @@
 # Changelog
 
-## v2.7.2
+## dev v2.7.2
 
 [compare changes](https://github.com/nuxt/content/compare/v2.7.1...v2.7.2)
 
@@ -13,7 +13,7 @@
 
 - Update slots example for the `content-query` component ([#2190](https://github.com/nuxt/content/pull/2190))
 
-## v2.7.1
+## dev v2.7.1
 
 [compare changes](https://github.com/nuxt/content/compare/v2.7.0...v2.7.1)
 
